@@ -7,7 +7,7 @@
 <h3 align="center">Hey there, I'm Mustafa Ozturk  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
   
-<a href="#"><img width="50%" height="auto" src="https://www.pexels.com/tr-tr/fotograf/gece-boyunca-su-kutlesindeki-sehir-manzarasi-3586966/" height="75px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://www.pexels.com/tr-tr/fotograf/selale-fotografciligi-onunde-brown-rock-cliff-uzerinde-duran-adam-1047051/" height="75px"/></a>
   
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
