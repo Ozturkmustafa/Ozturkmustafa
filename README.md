@@ -8,8 +8,9 @@
 
   
 <a href="#"><img width="50%" height="auto" src="https://www.wallpaperup.com/uploads/wallpapers/2012/12/31/27019/5c026c30650608791a576726f22ecf5a.jpg" height="75px"/></a>
+<h3 align="center">Join to my DEVOPS Journey
   
-## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
+About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png">
   
 - 👋 Hi, I'm @Ozturkmustafa
 - 👀 I'm interested in IT
@@ -35,8 +36,6 @@
   [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/mustafaozturk88/)
   
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:redme304@gmail.com)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&theme=radical)
 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&show_icons=true&theme=cobalt" alt="Mustafa" /></p> 
