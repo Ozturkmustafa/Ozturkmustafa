@@ -2,7 +2,7 @@
 
 ![snake svg](https://github.com/Ozturkmustafa/Ozturkmustafa/blob/output/github-contribution-grid-snake.svg)
 
--------------
+--------------- 
 
 <h3 align="center">Hey there, I'm Mustafa Ozturk  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -21,6 +21,7 @@
 - 📫 https://www.linkedin.com/in/mustafaozturk88/   ✨
   
 <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="10%"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="10%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="12%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="9%"> <img src="https://www.stratoscale.com/wp-content/uploads/2019/04/Kubernetes-logo.png" width="7%"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" width="12%"> <img src="https://marka-logo.com/wp-content/uploads/2020/09/Linux-Logo.png" width="10%"> 
+
 --------------- 
 
 <h5 align="left">We are NightFighters, Join us to NightFighterClub:</h5> 
@@ -31,13 +32,11 @@
   
 --------------- 
 <h3 align="left">Connect with me:</h3> 
+ 
+<p align="left">
 
-<p align="left"> 
-
-  [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/mustafaozturk88/)
-  
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:redme304@gmail.com)  
-
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/mustafaozturk88/)
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:redme304@gmail.com) 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&show_icons=true&theme=cobalt" alt="Mustafa" /></p> 
 
