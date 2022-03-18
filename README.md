@@ -39,6 +39,10 @@
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:redme304@gmail.com) 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&show_icons=true&theme=cobalt" alt="Mustafa" /></p> 
+  
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozturkmustafa&langs_count=10&theme=cobalt&layout=compact" alt="Mustafa" /></p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&show_icons=true&theme=cobalt" alt="Mustafa" /></p>
 
 [ <p align="right"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOzturkmustafa)](https://github.com/Ozturkmustafa) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=MustafaOzturk&label=Profile%20views&color=129e00&style=plastic" alt="Mustafa" /> </p>  
   
