@@ -10,7 +10,7 @@
 <a href="#"><img width="50%" height="auto" src="https://www.wallpaperup.com/uploads/wallpapers/2012/12/31/27019/5c026c30650608791a576726f22ecf5a.jpg" height="75px"/></a>
 <h3 align="center">Join to my DEVOPS Journey
   
-About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png">
+ ##About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png">
   
 - 👋 Hi, I'm @Ozturkmustafa
 - 👀 I'm interested in IT
