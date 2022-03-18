@@ -11,8 +11,7 @@
 <h3 align="center">Join to my DEVOPS Journey
 
 
-## <a href="#"><img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
-About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png">
+## <a href="#"><img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png">
   
 - 👋 Hi, I'm @Ozturkmustafa
 - 👀 I'm interested in IT
