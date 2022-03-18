@@ -37,8 +37,8 @@
 
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" color="white" alt="linkedin" height="30" width="40" />](https://www.linkedin.com/in/mustafaozturk88/)
 [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" background-color="white" alt="instagram" height="30" width="40" />](mailto:redme304@gmail.com) 
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ozturkmustafa&show_icons=true&theme=cobalt" alt="Mustafa" /></p> 
+
+--------------- 
   
 <p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozturkmustafa&langs_count=10&theme=cobalt&layout=compact" alt="Mustafa" /></p>
 <br><br>
