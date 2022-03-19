@@ -6,6 +6,7 @@
 
 <h3 align="center">Hey there, I'm Mustafa Ozturk  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+--------------- 
   
 <h3 align="center"><img width="50%" height="auto" src="https://www.wallpaperup.com/uploads/wallpapers/2012/12/31/27019/5c026c30650608791a576726f22ecf5a.jpg" height="75px"/></a>
 <h3 align="center">Join to my DEVOPS Journey
